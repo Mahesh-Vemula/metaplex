@@ -16,7 +16,7 @@ use {
     spl_token::state::{Account, Mint},
     std::cell::Ref,
 };
-anchor_lang::declare_id!("cndyAnrLdpjq1Ssp1z8xxDsB8dxe7u4HL5Nxi2K5WXZ");
+anchor_lang::declare_id!("ctuiW3cD8KP26sPUzzZZFkPsQVoXWmhCGMnjpbcwSWR");
 
 const PREFIX: &str = "candy_machine";
 #[program]
